@@ -1,0 +1,8 @@
+人 ひと Person
+山 やま Mountain
+花 はな Flower
+本 ほん Book
+大きい おおきい To be big
+行く いく To go
+読む よむ To read
+寝る ねる To sleep

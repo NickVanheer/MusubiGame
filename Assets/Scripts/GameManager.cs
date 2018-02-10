@@ -71,6 +71,7 @@ public class GameManager : MonoBehaviour {
     public GameState State;
     public PlayMode Mode;
     public bool AskEnglishMeaning = false;
+    public bool UseSoundEffects = true;
     public float Timer = 60;
     [Range(0,2f)]
     public float Delay;
@@ -117,6 +118,11 @@ public class GameManager : MonoBehaviour {
 
         GenerateWordStream(AnkiReader.Words);
         ResetGame();
+    }
+
+    public void ToggleAudio(Toggle change)
+    {
+        UseSoundEffects = change.isOn;
     }
 
     public void OptionSelectedFromDropdown(Dropdown dropDown)
@@ -640,7 +646,9 @@ public class GameManager : MonoBehaviour {
         if (hasMoveMade)
         {
             UpdateEmptyCells();
-            audioSource.PlayOneShot(Confirm);
+
+            if(UseSoundEffects)
+                audioSource.PlayOneShot(Confirm);
 
             if (Mode == PlayMode.SpawnFive)
             {
@@ -740,7 +748,9 @@ public class GameManager : MonoBehaviour {
 
             //
             Two.PlayMergeAnimation();
-            audioSource.PlayOneShot(Merge);
+
+            if (UseSoundEffects)
+                audioSource.PlayOneShot(Merge);
 
             // 
             ScoreTracker.Instance.Score += score;
