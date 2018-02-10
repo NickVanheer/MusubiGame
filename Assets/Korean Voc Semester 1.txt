@@ -1,0 +1,185 @@
+기숙사	Dormitory	
+대학교	College; University	
+도서관	Library	
+시게	Clock	
+식당	Restaurant	
+안	Inside	
+앞	Front	
+뒤	Back	
+옆	The side	
+우체국	Post office	
+위	Top	
+밑	Bottom	
+어디	Where?	
+의자	Chair	
+책	Book	
+책상	Desk	
+학교	Campus	
+학생회관	Student Center	
+층	Counter for floors	
+숙제	Homework	
+아침	Breakfast-Morning	
+음식	Food	
+괜찮아요	To be all right	
+낣다	To be spacious-wide	
+많다	To be many	
+맛있어요	To be delicous	
+싸요	To be cheap	
+어때요	To be how/How is...	
+좋아요	To be good-to be nice	
+크다	To be big	
+아주	Very-really	
+참	Really-truly	
+가다	To go	
+먹어요	To eat	
+앉다	To sit	
+알다	To know	
+해요	To do	
+그리고	And	
+경제학	Economics	
+교실	Classroom	
+내일	Tomorrow	
+반	Classroom	
+사전	Dictionary	
+수업	Course	
+여자	Woman	
+오늘	Today	
+우산	Umbrella	
+질문	Question	
+집	Home-house	
+친구	Friend	
+인사하다	To greet	
+읽다	To read	
+없어요	To not be-To not have	
+있어요	To have	
+재미있어요	To be interesting	
+그런데	But-however	
+어제	Yesterday	
+공부	Study	
+남자	Man	
+시험	Test-exam	
+역사	History	
+주스	Juice	
+To drink -&gt; To drink Coffee	마시다 -&nbsp;커피를 마셔요	
+만나다	To meet	
+보세요	To see-look	
+지내세요	To get along	
+그래서	So-therefore	
+그럼	(if so) then	
+매일	Every day	
+어떻게	How	
+열심히	Diligently	
+요즘	These days	
+잘	Well	
+지금	Now	
+맛없다	To be tasteless	
+재미없다	To be uninteresting	
+Dog	개	
+High School Student	고등학생	
+Graduate student	대학원생	
+Father	아버지	
+Mother	<div>어머니</div><div><br /></div>	
+Younger sister	여동생	
+The older brother of a male	형	
+Volume	권	
+20 in Sino Korean and Native korean	<div>Sino Korean -&gt;&nbsp;이십</div>Native Korean -&gt;&nbsp;스무/스물	
+To be thankful	고맙다	
+To be bad	나쁘다 /&nbsp;나빠요	
+To be expensive	비싸다	
+To be pretty	예쁘다	
+To be small (in size)	작다	
+To learn	"<div>배우다 /&nbsp;<span class=""Apple-tab-span"" style=""white-space:pre""> </span>배워요</div>"	
+To sleep	자다	
+To give	주다	
+This	이것	
+My	제/내	
+Park	공원	
+Department store	백화점	
+Birthday	생일	
+Bookstore	서점	
+Present	선물	
+After a long time / Long time no see	오래간만	
+Evening	저녁	
+Lunch	점심	
+To teach	<div>가르치다</div><div><br /></div>	
+To play tennis	테니스 치다 /&nbsp;테니스 쳐요	
+(Video game) Store	(비디오 게임) 가게	
+a.m / 1am	오전/오전&nbsp;한시간 &nbsp;	
+p.m	오후	
+<div>Monday</div><div>Tuesday</div><div>Wednesday</div><div>Thursday&nbsp;</div><div>Friday</div><div>Saturday&nbsp;</div><div>Sunday</div>	<div>월요일</div><div>화요일</div><div>수요일</div><div>목요일</div><div>금요일</div><div>토요일</div><div>일요일</div>	
+To walk	<div>걷다</div>	
+To listen	듣다	
+To like	좋아하다	
+날씨	Weather	
+To speak	말하다	
+Airplane	비행기	
+Pencil	연필	
+Bycycle	자전거	
+Subway	지하철	
+One day	하루	
+About, around	쯤	
+To live	살다	
+To write, I write	쓰다 -&nbsp;써요	
+To be close, near	&nbsp;가깝다 - 가까워요	
+It is hot	더워요	
+To be far	"멀다 -&nbsp;<span class=""Apple-tab-span"" style=""white-space:pre""> </span>멀어요"	
+It is easy	쉽다 - 쉬워요	shibta shiwoyo
+To be difficult	어려워요	
+To be cold	춥다 - shuwayo	
+Narrow	좁다	
+How long does it usually take	보통 얼마나 걸려요?	
+Swimming - Swimming pool	수영 -&nbsp;수영장<div><br /></div>	
+Music	음악	
+Telephone	전화	
+Weekend	주말	
+To not know - I don't know	모르다 - 몰라요&nbsp;	
+To get up	일어 나다	
+To be busy - I am busy	바쁘다 -&nbsp;바빠요	
+Why	왜	
+Too (much)	너무	
+Last, past -&nbsp;<div>Last week,&nbsp;</div><div>last month,&nbsp;</div><div>last year</div><div>-----</div><div>Last weekend</div>	<div>지난 -&nbsp;</div><div>지난주 -&nbsp;</div><div>지난달 -&nbsp;</div><div>지난년 -</div><div>-----</div><div>지난주말</div>	
+Season	&nbsp;계절	
+Flower	꽃	
+Movie theatre	(영화)극장	
+Country	나라	
+School vacation	방학	
+Travel	여행	
+What kind of (movie are you watching)[Future tense]?	무슨 (영화 볼 거에요?)	
+The middle	가운데	
+The other side	건너편	
+Church	교회	
+Neighborhood / town	동네	
+Supermarket&nbsp;	슈퍼	
+Drugstore	약국	
+Map	지도	
+Side	쪽	
+Elementary school	<div>초등학교</div><div><br /></div>	
+Place counter	군데	
+Here, this place	여기	
+There	거기	
+Over there (achi)	저기	
+Get off, disembark, dismount	내리다	
+To ride, to get in	타다	
+To be clean	깨끗하다	kkaekkeuTada
+To be warm	따뜻하다	
+To be quiet	조용하다	
+Many	"<div><span class=""Apple-tab-span"" style=""white-space:pre""> </span>여럿 (without s)</div>"	
+This (prenoun)	이	
+That (prenoun)	그	
+That (over there)	저	
+I live nearby	"나는 근처에서&nbsp;<span class=""Apple-tab-span"" style=""white-space: pre""> </span>살아요"	
+시청	City Hall	
+Right side	오 른쪽	
+&nbsp;Left side	왼쪽	
+Stamp	우표	upyo
+Bank	은행	
+Doctor	의사	
+The first time	처음	
+Subway line	호선	
+To turn	돌다	
+To sell my computer	내 컴퓨터 팔아요	
+To ask	묻다 (묻겠습니다	
+To be seen, visible	보이다	
+To be thankful (Adj)	감사하다 (감사합니다)	
+To be sorry	&nbsp;미안하다	
+Station	역	
