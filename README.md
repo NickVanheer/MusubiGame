@@ -9,7 +9,9 @@ I’m currently still enrolled in a Japanese language BA course and haven’t re
 
 In truth it's pretty boring but it might make for a nice change of pace from always using Anki. This app acts as an extension of Anki in a way as you can export your Anki decks to text files and these should be readily compatible.
 
-The code for this is on GitHub
-Thanks for watching!
+This project contains both source files, asset files, example text files (Japanese understanding might be required) and a working build.
+The free sound effects used are from https://freesound.org
 
+Feel free to play around with this, and don't hesitate to contact me!
 Nick
+nickvanheer at live.be
